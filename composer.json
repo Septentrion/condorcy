@@ -1,0 +1,16 @@
+{
+    "name": "root/condorcy",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\Condorcy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Michel Cadennes",
+            "email": "michel.cadennes@assemblee-virtuelle.org"
+        }
+    ],
+    "require": {}
+}
