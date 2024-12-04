@@ -23,6 +23,9 @@ class Router
 
     }
 
+    /**
+     * Scanne le code pour trouver les routes à l'aide des attributs PHP 8
+     */
     public function collectRoutes()
     {
     }
